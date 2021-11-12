@@ -14,8 +14,7 @@ The purpose of this analysis was to
 - provided data.js file.
 
 ## Results:
-
-C:\Users\McKay\Desktop\Analytics_Course\UFOs\static\images\Initial Page Load.png
+![Initial Page Load.png](https://github.com/nseddon/Surfs-Up/blob/main/Deliverable%202.PNG)
 
 ## Summary:
 
