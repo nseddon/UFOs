@@ -1,12 +1,14 @@
 <div class="container" align="center">
-  <div style="background-image: url(https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg);"></div>
+  <div style="background-image">
+    <img src="https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg" alt="Snow" width="350">
+  </div>
   <div>
       <h2 align="center">UFOs</h2>
   </div>
 </div>
 
   
-<img src="https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg" alt="Snow" width="350">
+
   
   
 ## Overview of the analysis:
