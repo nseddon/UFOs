@@ -19,7 +19,13 @@ The purpose of this analysis was to build a webpage for users to interact with u
 - provided data.js file.
 
 ## Results:
-![Initial Page Load.png](https://github.com/nseddon/UFOs/blob/main/static/images/Initial%20Page%20Load.PNG)
+<div class="container" align="left">
+  <div style="background-image">
+    <img src="https://github.com/nseddon/UFOs/blob/main/static/images/Initial%20Page%20Load.PNG" alt="UFOs" width="350">
+    <h3 align="right">On initial load of the webpage, the user will see a welcome message and invitation to explore the data provided.  The full table of data is displayed on initial load, awaiting user input to be filtered.</h3>
+  </div>
+</div>
+
 ![Date Only Filter.png](https://github.com/nseddon/UFOs/blob/main/static/images/Date%20Only%20Filter.PNG)
 ![City Only Filter.png](https://github.com/nseddon/UFOs/blob/main/static/images/City%20Only%20Filter.PNG)
 ![State Only Filter.png](https://github.com/nseddon/UFOs/blob/main/static/images/State%20Only%20Filter.PNG)
