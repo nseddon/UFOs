@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg" width="350" title="UFOs">
+</p>
+
 # UFOs
 ![NASA.jpg](https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg)
 
