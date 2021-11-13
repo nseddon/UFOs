@@ -1,5 +1,6 @@
 <div class="container">
   <img src="https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg" alt="Snow" style="width:60%;">
+  <h2 align="center">UFOs</h2>
 </div>
 
 
