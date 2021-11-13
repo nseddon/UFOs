@@ -60,10 +60,10 @@ The purpose of this analysis was to build a webpage for users to interact with u
 ## Summary:
 
 The analysis site is a good starting point for the client.  It allows data to be interpretted, uploaded, and then filtered.  However, there are some drawbacks to the current design:
--  Limited data pool
+-  **Limited data pool**
     -  The data.js file, despite containing over 100 sightings, is very limited in scope.
     -  The data is only from the US and Canada, almost rendering the Country filter unnecessary.
--  Initial Load data size
+-  **Initial Load data size**
     -  With the limited data, the initial load is not too overwhelming.  However, if the scope of the data provided was increased, this would lead to a very large scroll bar, and potential site load time.  This could be frustrating to a user for multiple reasons.
 
 ### Improvement Recommendations:
