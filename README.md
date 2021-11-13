@@ -22,7 +22,7 @@ The purpose of this analysis was to build a webpage for users to interact with u
 <div class="container" align="top">
   <div style="background-image">
     <img src="https://github.com/nseddon/UFOs/blob/main/static/images/Initial%20Page%20Load.PNG" alt="UFOs" width="350">
-    <body>On initial load of the webpage, the user will see a <br> welcome message and invitation to explore the data provided. <br>  The full table of data is displayed on initial load, awaiting user input to be filtered.</body>
+    <body align="top">On initial load of the webpage, the user will see a <br> welcome message and invitation to explore the data provided. <br>  The full table of data is displayed on initial load, awaiting user input to be filtered.</body>
   </div>
 </div>
 
