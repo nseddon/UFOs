@@ -1,9 +1,21 @@
+<div style="position: relative; background: url(https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg); width: (350)px; height: (300)px;">
+
+<div style="position: absolute; bottom: 0; left: 0.5em; width: 400px; font-weight: bold; color: #fff;">
+<p>("UFOs")</p>
+</div>
+
+<p style="position: absolute; top: 1em; right: 2em; width: 120px; padding: 4px; background-color: #fff; font-weight: bold; font-size: 11px;">
+(text to appear at the top right of the image)
+</p>
+
+</div>
+
+
 <p align="center">
   <img src="https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg" width="350" title="UFOs">
 </p>
 
 # UFOs
-![NASA.jpg](https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg)
 
 ## Overview of the analysis:
 
