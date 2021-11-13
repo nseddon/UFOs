@@ -1,6 +1,5 @@
 <div class="container">
-  <img src="https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg" alt="Snow" style="width:60%;">
-  <p align="center">UFOs</p>
+  <img src="https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg" alt="Snow" style="width:60%;">UFOs</img>
 </div>
 
 
@@ -9,7 +8,7 @@
   <img src="https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg" width="350" title="UFOs">
 </p>
 
-# UFOs
+
 
 ## Overview of the analysis:
 
