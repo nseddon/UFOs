@@ -1,10 +1,6 @@
 <div class="container">
-  <img src="https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg" alt="Snow" style="width:100%;">
-  <div class="bottom-left">Bottom Left</div>
-  <div class="top-left">Top Left</div>
-  <div class="top-right">Top Right</div>
-  <div class="bottom-right">Bottom Right</div>
-  <div class="centered">Centered</div>
+  <img src="https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg" alt="Snow" style="width:60%;">
+  <p align="center">UFOs</p>
 </div>
 
 
