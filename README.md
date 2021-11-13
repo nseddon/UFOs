@@ -1,8 +1,8 @@
 <div class="container" align="center">
   <div style="background-image">
     <img src="https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg" alt="Snow" width="1000" height="150">
+    <h1 align="center">UFOs</h1>
   </div>
-  <h1 align="center">UFOs</h1>
 </div>
 
   
