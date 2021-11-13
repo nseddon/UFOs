@@ -21,11 +21,11 @@ The purpose of this analysis was to build a webpage for users to interact with u
 ## Results:
 <img border="0" align="Left" src="https://github.com/nseddon/UFOs/blob/main/static/images/Initial%20Page%20Load.PNG" width="500"> On initial load of the webpage, the user will see a welcome message and invitation to explore the data provided. The full table of data is displayed on initial load, awaiting user input to be filtered.
 <br><br>Filter options consist of:
-&amp;nbsp;-  Date
-&amp;nbsp;-  City
-&amp;nbsp;-  State
-&amp;nbsp;-  Country
-&amp;nbsp;-  Shape
+-  Date
+-  City
+-  State
+-  Country
+-  Shape
 
 ![Date Only Filter.png](https://github.com/nseddon/UFOs/blob/main/static/images/Date%20Only%20Filter.PNG)
 ![City Only Filter.png](https://github.com/nseddon/UFOs/blob/main/static/images/City%20Only%20Filter.PNG)
