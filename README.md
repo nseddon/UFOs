@@ -20,10 +20,8 @@ The purpose of this analysis was to build a webpage for users to interact with u
 
 ## Results:
 <div class="container" align="top">
-  <div style="background-image">
-    <img src="https://github.com/nseddon/UFOs/blob/main/static/images/Initial%20Page%20Load.PNG" alt="UFOs" width="350">
-    <body align="top">On initial load of the webpage, the user will see a <br> welcome message and invitation to explore the data provided. <br>  The full table of data is displayed on initial load, awaiting user input to be filtered.</body>
-  </div>
+  <img src="https://github.com/nseddon/UFOs/blob/main/static/images/Initial%20Page%20Load.PNG" alt="UFOs" width="350">
+  <body align="top">On initial load of the webpage, the user will see a <br> welcome message and invitation to explore the data provided. <br>  The full table of data is displayed on initial load, awaiting user input to be filtered.</body>
 </div>
 
 ![Date Only Filter.png](https://github.com/nseddon/UFOs/blob/main/static/images/Date%20Only%20Filter.PNG)
