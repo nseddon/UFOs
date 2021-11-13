@@ -32,15 +32,26 @@ The purpose of this analysis was to build a webpage for users to interact with u
   <img src="https://github.com/nseddon/UFOs/blob/main/static/images/Date%20Only%20Filter.PNG" width="500" align="center">
 </div>
   
-<img border="0" align="Right" src="https://github.com/nseddon/UFOs/blob/main/static/images/Date%20Only%20Filter.PNG" width="500"> Example of data filtered by user-inputted date only.
+<div class="container" align="center">
+  <h5 align="center">Example of data filtered by user-inputted city only.</h5>
+  <img src="https://github.com/nseddon/UFOs/blob/main/static/images/City%20Only%20Filter.PNG" width="500" align="center">
+</div>
 
-<img border="0" align="Right" src="https://github.com/nseddon/UFOs/blob/main/static/images/City%20Only%20Filter.PNG" width="500"> Example of data filtered by user-inputted city only.
+<div class="container" align="center">
+  <h5 align="center">Example of data filtered by user-inputted state only.</h5>
+  <img src="https://github.com/nseddon/UFOs/blob/main/static/images/State%20Only%20Filter.PNG" width="500" align="center">
+</div>
 
-<img border="0" align="Right" src="https://github.com/nseddon/UFOs/blob/main/static/images/State%20Only%20Filter.PNG" width="500"> Example of data filtered by user-inputted state only.
+<div class="container" align="center">
+  <h5 align="center">Example of data filtered by user-inputted country only.</h5>
+  <img src="https://github.com/nseddon/UFOs/blob/main/static/images/Country%20Only%20Filter.PNG" width="500" align="center">
+</div>
 
-<img border="0" align="Right" src="https://github.com/nseddon/UFOs/blob/main/static/images/Country%20Only%20Filter.PNG" width="500"> Example of data filtered by user-inputted country only.
+<div class="container" align="center">
+  <h5 align="center">Example of data filtered by user-inputted shape only.</h5>
+  <img src="https://github.com/nseddon/UFOs/blob/main/static/images/Shape%20Only%20Filter.PNG" width="500" align="center">
+</div>
 
-<img border="0" align="Right" src="https://github.com/nseddon/UFOs/blob/main/static/images/Shape%20Only%20Filter.PNG" width="500"> Example of data filtered by user-inputted shape only.
 
 ![Multiple Filters.png](https://github.com/nseddon/UFOs/blob/main/static/images/Multiple%20Filters.PNG)
 
