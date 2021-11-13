@@ -1,13 +1,12 @@
-<div style="position: relative; background: url(https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg); width: (350)px; height: (300)px;">
-
-<div style="position: absolute; bottom: 0; left: 0.5em; width: 400px; font-weight: bold; color: #fff;">
+<div class="container">
+  <img src="https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg" alt="Snow" style="width:100%;">
+  <div class="bottom-left">Bottom Left</div>
+  <div class="top-left">Top Left</div>
+  <div class="top-right">Top Right</div>
+  <div class="bottom-right">Bottom Right</div>
+  <div class="centered">Centered</div>
 </div>
 
-<p style="position: center; top: 1em; right: 2em; width: 120px; padding: 4px; background-color: #fff; font-weight: bold; font-size: 11px;">
-(UFOs)
-</p>
-
-</div>
 
 
 <p align="center">
