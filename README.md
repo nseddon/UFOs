@@ -1,7 +1,8 @@
 <div class="container" align="center">
-  <div style="background-image: url('https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg');">
-
-  <h2 align="center">UFOs</h2>
+  <div style="background-image: url('https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg');"></div>
+  <div>
+      <h2 align="center">UFOs</h2>
+  </div>
 </div>
 
   
