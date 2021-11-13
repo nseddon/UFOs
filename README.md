@@ -28,31 +28,32 @@ The purpose of this analysis was to build a webpage for users to interact with u
 -  Shape
 
 <div class="container" align="center">
-  <h5 align="center">Example of data filtered by user-inputted date only.</h5>
+  <h5 align="center">Example of data filtered by user-input: Date only.</h5>
   <img src="https://github.com/nseddon/UFOs/blob/main/static/images/Date%20Only%20Filter.PNG" width="500" align="center">
 </div>
   
 <div class="container" align="center">
-  <h5 align="center">Example of data filtered by user-inputted city only.</h5>
+  <h5 align="center">Example of data filtered by user-input: City only.</h5>
   <img src="https://github.com/nseddon/UFOs/blob/main/static/images/City%20Only%20Filter.PNG" width="500" align="center">
 </div>
 
 <div class="container" align="center">
-  <h5 align="center">Example of data filtered by user-inputted state only.</h5>
+  <h5 align="center">Example of data filtered by user-input: State only.</h5>
   <img src="https://github.com/nseddon/UFOs/blob/main/static/images/State%20Only%20Filter.PNG" width="500" align="center">
 </div>
 
 <div class="container" align="center">
-  <h5 align="center">Example of data filtered by user-inputted country only.</h5>
+  <h5 align="center">Example of data filtered by user-input: Country only.</h5>
   <img src="https://github.com/nseddon/UFOs/blob/main/static/images/Country%20Only%20Filter.PNG" width="500" align="center">
 </div>
 
 <div class="container" align="center">
-  <h5 align="center">Example of data filtered by user-inputted shape only.</h5>
+  <h5 align="center">Example of data filtered by user-input: Shape only.</h5>
   <img src="https://github.com/nseddon/UFOs/blob/main/static/images/Shape%20Only%20Filter.PNG" width="500" align="center">
 </div>
+<br>
 
-
+<h5 align="center">Example of data filtered by user-input: Multiple Filters.</h5>
 ![Multiple Filters.png](https://github.com/nseddon/UFOs/blob/main/static/images/Multiple%20Filters.PNG)
 
 ## Summary:
