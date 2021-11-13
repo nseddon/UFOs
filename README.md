@@ -54,6 +54,7 @@ The purpose of this analysis was to build a webpage for users to interact with u
 <br>
 
 <h5 align="center">Example of data filtered by user-input: Multiple Filters.</h5>
+
 ![Multiple Filters.png](https://github.com/nseddon/UFOs/blob/main/static/images/Multiple%20Filters.PNG)
 
 ## Summary:
