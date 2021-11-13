@@ -26,10 +26,8 @@ The purpose of this analysis was to build a webpage for users to interact with u
 -  State
 -  Country
 -  Shape
-<br>
 
 <img border="0" align="Right" src="https://github.com/nseddon/UFOs/blob/main/static/images/Date%20Only%20Filter.PNG" width="500"> Example of data filtered by user-inputted date only.
-<br><br><br><br><br>
 
 ![City Only Filter.png](https://github.com/nseddon/UFOs/blob/main/static/images/City%20Only%20Filter.PNG)
 ![State Only Filter.png](https://github.com/nseddon/UFOs/blob/main/static/images/State%20Only%20Filter.PNG)
