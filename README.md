@@ -1,16 +1,13 @@
 <div class="container" align="center">
-  <img src="https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg" alt="Snow" width="350">
+  <div style="background-image: url('https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg');">
+
   <h2 align="center">UFOs</h2>
 </div>
 
-
-
-<p align="center">
-  <img src="https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg" width="350" title="UFOs">
-</p>
-
-
-
+  
+<img src="https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg" alt="Snow" width="350">
+  
+  
 ## Overview of the analysis:
 
 The purpose of this analysis was to build a webpage for users to interact with ufo sighting data.  The raw data is read from a .js file provided by the client.  The webpage was also required to have a multi-filter area for a user to enter values.  These values will then filter the raw sighting data into a reduced table for faster review by the user.
