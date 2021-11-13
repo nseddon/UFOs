@@ -1,9 +1,7 @@
 <div class="container" align="center">
   <div style="background-image">
+    <h2 align="center">UFOs</h2>
     <img src="https://github.com/nseddon/UFOs/blob/main/static/images/nasa.jpg" alt="Snow" width="350">
-  </div>
-  <div>
-      <h2 align="center">UFOs</h2>
   </div>
 </div>
 
